@@ -1,0 +1,21 @@
+.container {
+    overflow: hidden;
+}
+nav {
+    width: 20%;
+    float: left;
+}
+.section-container {
+    width: 60%;
+    float: left;
+}
+aside {
+    width: 20%;
+    float: right;
+}
+footer{
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black;
+}

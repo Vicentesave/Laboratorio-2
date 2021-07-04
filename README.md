@@ -1,2 +1,2 @@
 # Laboratorio-2
-####Vicente Santamaría Velasco.
+### Vicente Santamaría Velasco.
